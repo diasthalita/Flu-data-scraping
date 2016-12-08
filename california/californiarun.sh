@@ -18,8 +18,9 @@
 # Notes: 
 #============================================================================== 
 
-# defines output file
+# defines output file and writes header
 CSV="californiaresults.csv"
+echo '"Week", "Week Ending", "State", "Season", "Total", "Lab", "Visits", "Hospitalizations"' >> $CSV
 
 # removes previous californiaresults.csv files, if any
 rm -i $CSV
