@@ -4,7 +4,9 @@
 # File:         california.py 
 # Date:         Thu Dec  8 10:05:25 EST 2016
 # Author(s):    Thalita Coleman  <thalitaneu@gmail.com>
-# Abstract:     Parses the file cali1.htm  -- which contains the HTML source for the page https://www.cdph.ca.gov/data/statistics/Pages/CISPDataArchive.aspx -- and returns the URL of all weekly flu reports. Downloads the flu reports in .pdf format.
+# Abstract:     Parses the file cali1.htm  -- which contains the HTML source for the 
+#		page https://www.cdph.ca.gov/data/statistics/Pages/CISPDataArchive.aspx,
+#		and returns the URL of all weekly flu reports. Downloads the flu reports in .pdf format.
 #------------------------------------------------------------------------------ 
 # Requirements: Python 2.7 
 #------------------------------------------------------------------------------ 
