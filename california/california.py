@@ -1,5 +1,4 @@
-#!/usr/bin/python
-
+#!/usr/bin/env python
 ##============================================================================== 
 # File:         california.py 
 # Date:         Thu Dec  8 10:05:25 EST 2016
