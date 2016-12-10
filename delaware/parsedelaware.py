@@ -1,10 +1,14 @@
-#!/usr/bin/python
-
+#!/usr/bin/env python
 ##============================================================================== 
 # File:         parsedelaware.py
 # Date:         Thu Dec  8 10:05:25 EST 2016
 # Author(s):    Thalita Coleman  <thalitaneu@gmail.com>
-# Abstract:     Scrapes the .txt files and returns a CSV file named delawareresults.csv with "Week", "Week Ending", "State", "Season", "Total", "Lab", "Visits", and "Hospitalizations" data for each week. When the data is not available in the report, it returns N/A value. When the program was not able to parse the data, it returns a "could not retrieve" message. The "could not retrieve" values can then be collected manually.      
+# Abstract:     Scrapes the .txt files and returns a CSV file named delawareresults.csv 
+#		with "Week", "Week Ending", "State", "Season", "Total", "Lab", "Visits", 
+#		and "Hospitalizations" data for each week. When the data is not available 
+#		in the report, it returns N/A value. When the program was not able to parse 
+#		the data, it returns a "could not retrieve" message. The "could not retrieve"
+#		values can then be collected manually.      
 #------------------------------------------------------------------------------ 
 # Requirements: Python 2.7 
 #------------------------------------------------------------------------------ 
