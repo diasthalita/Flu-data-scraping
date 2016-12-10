@@ -6,4 +6,4 @@ Because the reports are not consistent, not all data can be retrieved automatica
 2. The field "Season" needs to be completed manually. Seasons start around week 40 and end around week 20 of the following year.
 3. Add missing weeks and complete fields with N/A.
 4. All the fields that read "could not retrieve" needs to be completed manually.
-6. * NM reports weekly on the number of lab tests since the start of the season. The number per week can be obtained by subtracting the prior week from current week analysed.
+6. NM reports weekly on the number of lab tests since the start of the season. The weekly counts can be obtained by subtracting the prior week from current week analysed.
