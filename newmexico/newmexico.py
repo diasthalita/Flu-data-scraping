@@ -1,11 +1,11 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 ##============================================================================== 
 # File:         newmexico.py 
 # Date:         Thu Dec  8 10:05:25 EST 2016
 # Author(s):    Thalita Coleman  <thalitaneu@gmail.com>
 # Abstract:     Parses the files NMpage[1-7].html  -- which contains the HTML source for
-#       		the page https://nmhealth.org/about/erd/ideb/isp/data/, and returns the URL 
-#				of all weekly flu reports. Downloads the flu reports in .pdf format.
+#       	the page https://nmhealth.org/about/erd/ideb/isp/data/, and returns the URL 
+#		of all weekly flu reports. Downloads the flu reports in .pdf format.
 #------------------------------------------------------------------------------ 
 # Requirements: Python 2.7 
 #------------------------------------------------------------------------------ 
