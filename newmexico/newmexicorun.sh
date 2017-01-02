@@ -19,13 +19,14 @@
 # Notes: 
 #============================================================================== 
 
-
-# defines output file and creates header
+# defines output file 
 CSV="newmexicoresults.csv"
-echo '"Week", "Week Ending", "State", "Season", "Total", "Lab", "Visits", "Hospitalizations"' >> $CSV
 
 # removes previous newmexicoresults.csv files, if any
 rm -i $CSV
+
+# writes header
+echo '"Week", "Week Ending", "State", "Season", "Total", "Lab", "Visits", "Hospitalizations"' >> $CSV
 
 # downloads .csv files
 ./newmexico.py
