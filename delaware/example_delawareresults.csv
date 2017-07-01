@@ -1,0 +1,184 @@
+"Week", "Week Ending", "State", "Season", "Total", "Lab", "Visits", "Hospitalizations"
+01," January 1 -7, 2012",DE,season,total,could not retrieve,visits,hospitalization
+02," January 8 -14, 2012",DE,season,total,could not retrieve,visits,hospitalization
+03," January 15 -21, 2012",DE,season,total,could not retrieve,visits,hospitalization
+04," January 22 -28, 2012",DE,season,total,could not retrieve,visits,hospitalization
+05," January 29 -February 4, 2012",DE,season,total,could not retrieve,visits,hospitalization
+06," February 5-February 11, 2012",DE,season,total,could not retrieve,visits,hospitalization
+07," February 12-February 18, 2012",DE,season,total,could not retrieve,visits,hospitalization
+08," February 19-February 25, 2012",DE,season,total,could not retrieve,visits,hospitalization
+09," February 26-March 3, 2012",DE,season,total,could not retrieve,visits,hospitalization
+10," March 4 -March 10, 2012",DE,season,total,could not retrieve,visits,hospitalization
+11," March 11 -March 17, 2012",DE,season,total,could not retrieve,visits,hospitalization
+12," March 18 -March 24, 2012",DE,season,total,could not retrieve,visits,hospitalization
+13," March 25 -March 31, 2012",DE,season,total,could not retrieve,visits,hospitalization
+14," April 1-April 7, 2012",DE,season,total,could not retrieve,visits,hospitalization
+15," April 8-April 14, 2012",DE,season,total,could not retrieve,visits,hospitalization
+16," April 15-April 21, 2012",DE,season,total,could not retrieve,visits,hospitalization
+17," April 22-April 30, 2012",DE,season,total,could not retrieve,visits,hospitalization
+18," April 29-May 5, 2012",DE,season,total,could not retrieve,visits,hospitalization
+19," May 6-May 12, 2012",DE,season,total,could not retrieve,visits,hospitalization
+20," May 13-May 19, 2012",DE,season,total,could not retrieve,visits,hospitalization
+40,"September October 6, 2012",DE,season,total,0,visits,hospitalization
+41,"October October 13, 2012",DE,season,total,could not retrieve,visits,hospitalization
+42,"October October 20, 2012",DE,season,total,two,visits,hospitalization
+43,"October October 27, 2012",DE,season,total,three,visits,hospitalization
+44,"October November 03, 2012",DE,season,total,0,visits,hospitalization
+45,"November November 10, 2012",DE,season,total,8,visits,hospitalization
+46,"November November 17, 2012",DE,season,total,5,visits,hospitalization
+could not retrieve,could not retrieve,DE,season,total,four,visits,hospitalization
+could not retrieve,could not retrieve,DE,season,total,could not retrieve,visits,hospitalization
+could not retrieve,could not retrieve,DE,season,total,37,visits,hospitalization
+could not retrieve,could not retrieve,DE,season,total,74,visits,hospitalization
+51,"December 22, 2012",DE,season,total,116,visits,hospitalization
+52,"December December 29, 2012",DE,season,total,132,visits,hospitalization
+could not retrieve,could not retrieve,DE,season,total,97,visits,hospitalization
+02,"January January 12, 2013",DE,season,total,126,visits,hospitalization
+03,"January January 19, 2013",DE,season,total,110,visits,hospitalization
+04,"January January 26, 2013",DE,season,total,71,visits,hospitalization
+05,"January February 02, 2013",DE,season,total,56,visits,hospitalization
+06,"February  February 09, 2013",DE,season,total,64,visits,hospitalization
+07,"February  February 16, 2013",DE,season,total,56,visits,hospitalization
+08,"February  February 23, 2013",DE,season,total,68,visits,hospitalization
+09,"February  March 02, 2013",DE,season,total,35,visits,hospitalization
+10,"March  March 09, 2013",DE,season,total,47,visits,hospitalization
+11,"March  March 16, 2013",DE,season,total,44,visits,hospitalization
+12,"March  March 23, 2013",DE,season,total,56,visits,hospitalization
+13,"March  March 30, 2013",DE,season,total,45,visits,hospitalization
+14,"March  April 06, 2013",DE,season,total,26,visits,hospitalization
+15,"April  April 13, 2013",DE,season,total,17,visits,hospitalization
+16,"April  April 20, 2013",DE,season,total,2,visits,hospitalization
+17,"April  April 27, 2013",DE,season,total,could not retrieve,visits,hospitalization
+18,"April  May 04, 2013",DE,season,total,6,visits,hospitalization
+19,"May   May 11, 2013",DE,season,total,0,visits,hospitalization
+20,"May   May 18, 2013",DE,season,total,0,visits,hospitalization
+41,"October – October 12, 2013",DE,season,total,0,visits,hospitalization
+42,"October – October 19, 2013",DE,season,total,0,visits,hospitalization
+43,"October – October 26, 2013",DE,season,total,could not retrieve,visits,hospitalization
+44,"October – November 2, 2013",DE,season,total,0,visits,hospitalization
+45,"November – November 9, 2013",DE,season,total,could not retrieve,visits,hospitalization
+46,"November – November 16, 2013",DE,season,total,3,visits,hospitalization
+47,"November – November 23, 2013",DE,season,total,12,visits,hospitalization
+48,"November – November 30, 2013",DE,season,total,4,visits,hospitalization
+49,"December – November 30, 2013",DE,season,total,8,visits,hospitalization
+50,"December – December 14, 2013",DE,season,total,10,visits,hospitalization
+51,"December – December 21, 2013",DE,season,total,29,visits,hospitalization
+52,"December – December 28, 2013",DE,season,total,37,visits,hospitalization
+01,"December – January 4, 2014",DE,season,total,58,visits,hospitalization
+02,"January – January 11, 2014",DE,season,total,83,visits,hospitalization
+03,"January – January 18, 2014",DE,season,total,102,visits,hospitalization
+04,"January – January 25, 2014",DE,season,total,143,visits,hospitalization
+05,"January – February 1, 2014",DE,season,total,104,visits,hospitalization
+06,"February – February 8, 2014",DE,season,total,132,visits,hospitalization
+07,"February – February 15, 2014",DE,season,total,134,visits,hospitalization
+08,"February – February 22, 2014",DE,season,total,100,visits,hospitalization
+09,"February – March 1, 2014",DE,season,total,60,visits,hospitalization
+10,"March – March 8, 2014",DE,season,total,57,visits,hospitalization
+11,"March – March 15, 2014",DE,season,total,39,visits,hospitalization
+12,"March – March 22, 2014",DE,season,total,62,visits,hospitalization
+13,"March – March 29, 2014",DE,season,total,57,visits,hospitalization
+14,"March – April 5, 2014",DE,season,total,55,visits,hospitalization
+15,"April – April 12, 2014",DE,season,total,61,visits,hospitalization
+16,"April – April 19, 2014",DE,season,total,36,visits,hospitalization
+17,"April – April 26, 2014",DE,season,total,24,visits,hospitalization
+18,"April – May 3, 2014",DE,season,total,37,visits,hospitalization
+19,"May – May 10, 2014",DE,season,total,12,visits,hospitalization
+20,"May– May 17, 2014",DE,season,total,eight,visits,hospitalization
+40,"September  October 4, 2014",DE,season,total,could not retrieve,visits,hospitalization
+41,"October   October 11, 2014",DE,season,total,could not retrieve,visits,hospitalization
+42,"October   October 18, 2014",DE,season,total,could not retrieve,visits,hospitalization
+43,"October   October 25, 2014",DE,season,total,could not retrieve,visits,hospitalization
+44,"October – November 1, 2014",DE,season,total,11,visits,hospitalization
+45,"November – 8, 2014",DE,season,total,could not retrieve,visits,hospitalization
+46,"November – 15, 2014",DE,season,total,could not retrieve,visits,hospitalization
+47,"November – 22, 2014",DE,season,total,could not retrieve,visits,hospitalization
+48,"November – 29, 2014",DE,season,total,72,visits,hospitalization
+49,"November–December 6, 2014",DE,season,total,82,visits,hospitalization
+50,"December 13, 2014",DE,season,total,106,visits,hospitalization
+51,"December 20, 2014",DE,season,total,266,visits,hospitalization
+52,"December 27, 2014",DE,season,total,370,visits,hospitalization
+53,"December, 2014 – January 3, 2015",DE,season,total,270,visits,hospitalization
+1,"January   11, 2015",DE,season,total,187,visits,hospitalization
+2,"January   17, 2015",DE,season,total,141,visits,hospitalization
+3,"January   24, 2015",DE,season,total,143,visits,hospitalization
+4,"-  31,  2015",DE,season,total,91,visits,hospitalization
+5,"February   7, 2015",DE,season,total,65,visits,hospitalization
+6,"-  14,  2015",DE,season,total,76,visits,hospitalization
+7,"-  21,  2015",DE,season,total,34,visits,hospitalization
+8,"-  28,  2015",DE,season,total,25,visits,hospitalization
+9,"-  7,  2015",DE,season,total,22,visits,hospitalization
+10,"-  14,  2015",DE,season,total,19,visits,hospitalization
+11,"March   21, 2015",DE,season,total,25,visits,hospitalization
+12,"March   28, 2015",DE,season,total,25,visits,hospitalization
+13,"–  April  4,  2015",DE,season,total,22,visits,hospitalization
+14,"April – 11, 2015",DE,season,total,20,visits,hospitalization
+15,"April – 18, 2015",DE,season,total,13,visits,hospitalization
+16,"April – 25, 2015",DE,season,total,eight,visits,hospitalization
+17,"–  May  2,  2015",DE,season,total,three,visits,hospitalization
+18,"May   9, 2015",DE,season,total,could not retrieve,visits,hospitalization
+19,"–  16,  2015",DE,season,total,could not retrieve,visits,hospitalization
+20,"–  23,  2015",DE,season,total,0,visits,hospitalization
+40,"–  10,  2015",DE,season,total,could not retrieve,visits,hospitalization
+42,"October – 25, 2015",DE,season,total,could not retrieve,visits,hospitalization
+43,"October – 31, 2015",DE,season,total,0,visits,hospitalization
+44,"November 7, 2015",DE,season,total,two,visits,hospitalization
+45,"November 14, 2015",DE,season,total,0,visits,hospitalization
+46,"November 21, 2015",DE,season,total,0,visits,hospitalization
+47,"November 28, 2015",DE,season,total,0,visits,hospitalization
+48,"November – December 5, 2015",DE,season,total,three,visits,hospitalization
+49,"December 12, 2015",DE,season,total,0,visits,hospitalization
+50,"December 19, 2015",DE,season,total,0,visits,hospitalization
+51,"December 26, 2015",DE,season,total,three,visits,hospitalization
+52,"December, 2015 – January 3, 2016",DE,season,total,three,visits,hospitalization
+1,"-  9,  2016",DE,season,total,four,visits,hospitalization
+2,"-  16,  2016",DE,season,total,two,visits,hospitalization
+3,"January   23, 2016",DE,season,total,three,visits,hospitalization
+4,"January   30, 2016",DE,season,total,six,visits,hospitalization
+5,"–  February  6,  2016",DE,season,total,six,visits,hospitalization
+6,"-  13,  2016",DE,season,total,20,visits,hospitalization
+7,"February   20, 2016",DE,season,total,42,visits,hospitalization
+8,"February   27, 2016",DE,season,total,118,visits,hospitalization
+9,"–  March  5,  2016",DE,season,total,197,visits,hospitalization
+10,"March   12, 2016",DE,season,total,409,visits,hospitalization
+11,"March   19, 2016",DE,season,total,306,visits,hospitalization
+12,"March 26, 2016",DE,season,total,268,visits,hospitalization
+13,"–  April  2,  2016",DE,season,total,193,visits,hospitalization
+14,"April – 9, 2016",DE,season,total,132,visits,hospitalization
+15,"-  16,  2016",DE,season,total,101,visits,hospitalization
+16,"-  23,  2016",DE,season,total,134,visits,hospitalization
+17,"April   30, 2016",DE,season,total,88,visits,hospitalization
+18,"-  7,  2016",DE,season,total,63,visits,hospitalization
+19,"May   13, 2016",DE,season,total,52,visits,hospitalization
+20,"May – 21, 2016",DE,season,total,33,visits,hospitalization
+40,"–  8,  2016",DE,season,total,could not retrieve,visits,hospitalization
+41,"October   15, 2016",DE,season,total,0,visits,hospitalization
+43,"October   29, 2016",DE,season,total,three,visits,hospitalization
+44,"October – November 5, 2016",DE,season,total,could not retrieve,visits,hospitalization
+45,"–  12,  2016",DE,season,total,two,visits,hospitalization
+46,"November – 19, 2016",DE,season,total,six,visits,hospitalization
+47,"November   26, 2016",DE,season,total,eight,visits,hospitalization
+48,"November – December 3, 2016",DE,season,total,21,visits,hospitalization
+49,"December   10, 2016",DE,season,total,19,visits,hospitalization
+50,"-  17,  2016",DE,season,total,28,visits,hospitalization
+51,"December   24, 2016",DE,season,total,40,visits,hospitalization
+52,"December   31, 2016",DE,season,total,68,visits,hospitalization
+1,"January – 7, 2017",DE,season,total,85,visits,hospitalization
+2,"January   14, 2017",DE,season,total,107,visits,hospitalization
+3,"-  21,  2017",DE,season,total,127,visits,hospitalization
+4,"-  28,  2017",DE,season,total,127,visits,hospitalization
+5,"–  February  4,  2017",DE,season,total,238,visits,hospitalization
+6,"-  11,  2017",DE,season,total,385,visits,hospitalization
+7,"February   18, 2017",DE,season,total,418,visits,hospitalization
+8,"February   25, 2017",DE,season,total,562,visits,hospitalization
+9,"February – March 4, 2017",DE,season,total,391,visits,hospitalization
+10,"March   11, 2017",DE,season,total,391,visits,hospitalization
+11,"March   18, 2017",DE,season,total,316,visits,hospitalization
+12,"March   25, 2017",DE,season,total,344,visits,hospitalization
+13,"March – April 1, 2017",DE,season,total,377,visits,hospitalization
+14,"April   8, 2017",DE,season,total,206,visits,hospitalization
+15,"April   15, 2017",DE,season,total,108,visits,hospitalization
+16,"April   22, 2017",DE,season,total,59,visits,hospitalization
+17,"April   29, 2017",DE,season,total,26,visits,hospitalization
+18,"April – May 6, 2017",DE,season,total,19,visits,hospitalization
+19,"May   13, 2017",DE,season,total,ten,visits,hospitalization
+20,"May   20, 2017",DE,season,total,two,visits,hospitalization
