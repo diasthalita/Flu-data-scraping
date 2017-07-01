@@ -14,14 +14,21 @@
 #       it returns N/A value. When the program was not able to parse the data, it returns a 
 #       "could not retrieve" message. The "could not retrieve" values can then be collected manually.        
 #------------------------------------------------------------------------------ 
+<<<<<<< HEAD
 # Requirements: Python 2.7, PDFminer on path  
+=======
+# Requirements: Python 2.7 
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 #------------------------------------------------------------------------------ 
 # Notes: 
 #============================================================================== 
 
+<<<<<<< HEAD
 # define path
 PATH=/home/tcoleman/venv/pdfminer/bin:$PATH
 
+=======
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 # defines output file 
 CSV="newmexicoresults.csv"
 
@@ -32,7 +39,11 @@ rm -i $CSV
 echo '"Week", "Week Ending", "State", "Season", "Total", "Lab", "Visits", "Hospitalizations"' >> $CSV
 
 # downloads .csv files
+<<<<<<< HEAD
 #./newmexico.py
+=======
+./newmexico.py
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 
 # removes files prior to 2011
 find . -type f -name "2011*" -exec rm -f {} \;

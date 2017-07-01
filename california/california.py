@@ -3,7 +3,12 @@
 # File:         california.py 
 # Date:         Thu Dec  8 10:05:25 EST 2016
 # Author(s):    Thalita Coleman  <thalitaneu@gmail.com>
+<<<<<<< HEAD
 # Abstract:     Parses the page https://www.cdph.ca.gov/data/statistics/Pages/CISPDataArchive.aspx,
+=======
+# Abstract:     Parses the file cali1.htm  -- which contains the HTML source for the 
+#		page https://www.cdph.ca.gov/data/statistics/Pages/CISPDataArchive.aspx,
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 #		and returns the URL of all weekly flu reports. Downloads the flu reports in .pdf format.
 #------------------------------------------------------------------------------ 
 # Requirements: Python 2.7 
@@ -16,12 +21,19 @@ from datetime import datetime
 import sys
 import os
 from subprocess import *
+<<<<<<< HEAD
 import urllib2
 
 
 url = 'https://archive.cdph.ca.gov/data/statistics/Pages/CISPDataArchive.aspx'
 response = urllib2.urlopen(url)
 lines = response.readlines()
+=======
+
+file= open('cali1.htm', 'r')
+lines= file.readlines()
+file.close()
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 
 
 # find the lines we're interested in
@@ -36,9 +48,16 @@ pattern3= re.compile('.*href')
 pattern4= re.compile('.*</a>')
 
 # break the match into parts
+<<<<<<< HEAD
 pattern5= re.compile('(.*Weekly Report\s+-\s+|.*Weekly Report\-\s+)(.*?)(\s)(\(.*?\))')
 
 prefix = 'https://archive.cdph.ca.gov'
+=======
+pattern5= re.compile('(.*Weekly Report\s+-\s+)(.*?)(\s)(\(.*?\))')
+
+
+prefix='http://www.cdph.ca.gov'
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 
 nameUrlPairs= []
 problemDates= []
@@ -101,7 +120,10 @@ for i in range(0,len(lines)):
 				
 
 for pair in nameUrlPairs:
+<<<<<<< HEAD
 	print pair
+=======
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 	cmd = ['wget', '-O', pair[1], '--no-check-certificate', pair[0]]
 	p = Popen(cmd)
 	p.wait()

@@ -27,8 +27,12 @@ prefix = 'https://nmhealth.org'
 
 nameUrls = []
 
+<<<<<<< HEAD
 for line in fileinput.input(files=('NMpage8.html')):
 #for line in fileinput.input(files=('NMpage1.html','NMpage2.html','NMpage3.html','NMpage4.html','NMpage5.html', 'NMpage6.html','NMpage7.html')):
+=======
+for line in fileinput.input(files=('NMpage1.html','NMpage2.html','NMpage3.html','NMpage4.html','NMpage5.html', 'NMpage6.html','NMpage7.html')):
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 	if re.match(pattern1, line):
 
 		matches = re.findall(pattern2, line)
@@ -39,7 +43,10 @@ for line in fileinput.input(files=('NMpage8.html')):
 			nameUrls.append((weekEnding, url))
 
 for pair in nameUrls:
+<<<<<<< HEAD
 	print pair
+=======
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 	cmd = ['wget', '-O', pair[0], '--no-check-certificate', pair[1]]
 	p = Popen(cmd)
 	p.wait()

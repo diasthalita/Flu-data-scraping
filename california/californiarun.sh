@@ -3,7 +3,12 @@
 # Date:         Thu Dec  8 10:05:25 EST 2016
 # Author(s):    Thalita Coleman  <thalitaneu@gmail.com>
 # Abstract:	Executes programs california.py and parsecalifornia.py. 
+<<<<<<< HEAD
 #		Parses the page https://archive.cdph.ca.gov/data/statistics/Pages/CISPDataArchive.aspx
+=======
+#		Parses the file cali1.htm  -- which contains the HTML source for
+#		the page https://www.cdph.ca.gov/data/statistics/Pages/CISPDataArchive.aspx,
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 #		and returns the URL of all weekly flu reports. Downloads the flu reports 
 #		in .pdf format and transforms into .txt. Deletes files prior to 2012. 
 #		Scrapes the .txt files and returns a CSV file named californiaresults.csv 
@@ -12,14 +17,21 @@
 #		it returns N/A value. When the program was not able to parse the data, it returns a 
 #		"could not retrieve" message. The "could not retrieve" values can then be collected manually.		 
 #------------------------------------------------------------------------------ 
+<<<<<<< HEAD
 # Requirements: Python 2.7, PDFminer on path 
+=======
+# Requirements: Python 2.7 
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 #------------------------------------------------------------------------------ 
 # Notes: 
 #============================================================================== 
 
+<<<<<<< HEAD
 # define path
 PATH=/home/tcoleman/venv/pdfminer/bin:$PATH
 
+=======
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 # defines output file 
 CSV="californiaresults.csv"
 

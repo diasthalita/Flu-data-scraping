@@ -16,12 +16,19 @@ import re
 import sys
 import os
 from subprocess import *
+<<<<<<< HEAD
 import urllib2
 
 
 url = 'http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html'
 response = urllib2.urlopen(url)
 lines = response.readlines()
+=======
+
+file = open('delaware.html', 'r')
+lines =  file.readlines()
+file.close()
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 
 pattern1 = re.compile('.*href.*\.pdf')
 pattern2 = re.compile('(.*?)(title=")(.*?)(Report".*?)(href=")(.*?)(".*?>)(.*?)(</a>)')

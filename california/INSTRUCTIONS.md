@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 Make sure you are using Python 2 and that PDFMiner (https://pypi.python.org/pypi/pdfminer/) is installed and on path. 
 
+=======
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 To get started, run the californiarun.sh script. Once it is finished, open the californiaresults.csv file.
 
 Because the reports are not consistent, not all data can be retrieved automatically. Please find below information about the data that needs to be extracted manually:

@@ -13,14 +13,21 @@
 #		it returns N/A value. When the program was not able to parse the data, it returns a 
 #		"could not retrieve" message. The "could not retrieve" values can then be collected manually.		 
 #------------------------------------------------------------------------------ 
+<<<<<<< HEAD
 # Requirements: Python 2.7, PDFminer on path 
+=======
+# Requirements: Python 2.7 
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 #------------------------------------------------------------------------------ 
 # Notes: 
 #============================================================================== 
 
+<<<<<<< HEAD
 # define path
 PATH=/home/tcoleman/venv/pdfminer/bin:$PATH
 
+=======
+>>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 # defines output file
 CSV="delawareresults.csv"
 
