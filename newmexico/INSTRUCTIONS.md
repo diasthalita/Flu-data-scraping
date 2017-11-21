@@ -1,4 +1,4 @@
-To get started, run the newmexicorun.sh script. Once it is finished, open the newmexicoresults.csv file.
+To get started, download the html files for the pages containing the urls for the reports. Run the newmexicorun.sh script. Once it is finished, open the newmexicoresults.csv file.
 
 Because the reports are not consistent, not all data can be retrieved automatically. Please find below information about the data that needs to be extracted manually:
 

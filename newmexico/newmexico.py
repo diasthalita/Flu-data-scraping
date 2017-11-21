@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 ##============================================================================== 
 # File:         newmexico.py 
-# Date:         Thu Dec  8 10:05:25 EST 2016
+# Date:         Tue Nov 21 15:38:20 EST 2017
 # Author(s):    Thalita Coleman  <thalitaneu@gmail.com>
-# Abstract:     Parses the files NMpage[1-7].html  -- which contains the HTML source for
+# Abstract:     Parses the .html files which contains the HTML source for
 #       	the page https://nmhealth.org/about/erd/ideb/isp/data/, and returns the URL 
-#		of all weekly flu reports. Downloads the flu reports in .pdf format.
+#		of all weekly flu reports.
 #------------------------------------------------------------------------------ 
 # Requirements: Python 2.7 
 #------------------------------------------------------------------------------ 
-# Notes: 
+# Notes: Don't forget to update html file names 
 #==============================================================================
 
 
@@ -27,12 +27,9 @@ prefix = 'https://nmhealth.org'
 
 nameUrls = []
 
-<<<<<<< HEAD
-for line in fileinput.input(files=('NMpage8.html')):
+# Insert the names of the .html files below 
+for line in fileinput.input(files=('yourHTML1.html', 'yourHTML.html')):
 #for line in fileinput.input(files=('NMpage1.html','NMpage2.html','NMpage3.html','NMpage4.html','NMpage5.html', 'NMpage6.html','NMpage7.html')):
-=======
-for line in fileinput.input(files=('NMpage1.html','NMpage2.html','NMpage3.html','NMpage4.html','NMpage5.html', 'NMpage6.html','NMpage7.html')):
->>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 	if re.match(pattern1, line):
 
 		matches = re.findall(pattern2, line)
@@ -43,10 +40,7 @@ for line in fileinput.input(files=('NMpage1.html','NMpage2.html','NMpage3.html',
 			nameUrls.append((weekEnding, url))
 
 for pair in nameUrls:
-<<<<<<< HEAD
 	print pair
-=======
->>>>>>> a1bb2fbb5ad6c54d49ea14c20c56afc9d9ae0c90
 	cmd = ['wget', '-O', pair[0], '--no-check-certificate', pair[1]]
 	p = Popen(cmd)
 	p.wait()
